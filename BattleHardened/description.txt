@@ -1,0 +1,15 @@
+Tired of being under attack and your traveling merchant gets eviscerated?
+Well not anymore!
+
+This mod makes all of your Town NPC's IMMORTAL!
+
+Version changes -
+- v1.1 just added a homepage for the mod
+- v1.2 updated to tmodloader v0.7.1.1
+- v1.3 updated to tmodloader v0.8.3.2 and added the ability to turn immortal npc's on and off with the 'X' key
+       You might need to go into settings > controls > Mod Controls and bind the immortal property to whichever key you want.
+       Once this is set, when you press the key, you will switch the immortal property of your NPC's on or off
+- v1.4 updated to tmodloader v0.11.6.2! It's been a few years but I'm back to developing mods! Enjoy :)
+- v1.5 updated to tmodloader v0.11.8.9
+- v1.6 updated to tmodloader v2022.8.54.4
+- v1.6 updated to tmodloader v2022.8.54.6

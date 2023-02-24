@@ -1,0 +1,3 @@
+displayName = Battle Hardened NPCs
+author = Alzaro
+version = 1.8
